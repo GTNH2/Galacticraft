@@ -17,8 +17,8 @@ import org.lwjgl.opengl.GL11;
 import org.lwjgl.opengl.GL12;
 
 import cpw.mods.fml.common.Loader;
-import tconstruct.client.tabs.AbstractTab;
-import tconstruct.client.tabs.TabRegistry;
+import micdoodle8.mods.galacticraft.core.client.tabs.AbstractTab;
+import micdoodle8.mods.galacticraft.core.client.tabs.TabRegistry;
 
 public class GuiExtendedInventory extends InventoryEffectRenderer
 {

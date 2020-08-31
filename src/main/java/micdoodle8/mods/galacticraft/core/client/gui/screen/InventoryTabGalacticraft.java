@@ -7,7 +7,7 @@ import micdoodle8.mods.galacticraft.core.network.PacketSimple;
 import micdoodle8.mods.galacticraft.core.network.PacketSimple.EnumSimplePacket;
 import micdoodle8.mods.galacticraft.core.proxy.ClientProxyCore;
 import net.minecraft.item.ItemStack;
-import tconstruct.client.tabs.AbstractTab;
+import micdoodle8.mods.galacticraft.core.client.tabs.AbstractTab;
 
 public class InventoryTabGalacticraft extends AbstractTab
 {

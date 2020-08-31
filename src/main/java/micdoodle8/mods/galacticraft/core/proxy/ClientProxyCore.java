@@ -135,8 +135,8 @@ import net.minecraftforge.fluids.IFluidBlock;
 import org.lwjgl.BufferUtils;
 import org.lwjgl.opengl.GL11;
 
-import tconstruct.client.tabs.InventoryTabVanilla;
-import tconstruct.client.tabs.TabRegistry;
+import micdoodle8.mods.galacticraft.core.client.tabs.InventoryTabVanilla;
+import micdoodle8.mods.galacticraft.core.client.tabs.TabRegistry;
 import api.player.client.ClientPlayerAPI;
 import api.player.model.ModelPlayerAPI;
 import api.player.render.RenderPlayerAPI;
